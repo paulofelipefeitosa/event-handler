@@ -2,6 +2,8 @@ package models.processqueue;
 
 import java.util.PriorityQueue;
 
+import models.operation.Operation;
+
 public class OrderOperationQueue {
 
 	private String orderId;
